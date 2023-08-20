@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yppirate
 - 👀 I’m interested in Web3 and JavaScript/TypeScript
-- 🌱 I’m currently learning TS and Rust...
+- 🌱 I’m currently learning TS and Rust
 
 <!---
 yppirate/yppirate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
